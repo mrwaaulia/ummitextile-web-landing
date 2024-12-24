@@ -1,18 +1,18 @@
-import type { Config } from "tailwindcss";
-
-export default {
+module.exports = {
   content: [
-    "./pages/**/*.{js,ts,jsx,tsx,mdx}",
-    "./components/**/*.{js,ts,jsx,tsx,mdx}",
-    "./app/**/*.{js,ts,jsx,tsx,mdx}",
+    "./app/**/*.{js,ts,jsx,tsx}", // Untuk direktori Next.js dengan app folder
+    "./pages/**/*.{js,ts,jsx,tsx}", // Jika Anda masih menggunakan pages folder
+    "./components/**/*.{js,ts,jsx,tsx}", // Komponen custom
+    "./node_modules/flowbite/**/*.js", // Tambahkan ini
   ],
   theme: {
-    extend: {
-      colors: {
-        background: "var(--background)",
-        foreground: "var(--foreground)",
-      },
+    colors: {
+      primary: "#0D47A1",
+      secondary: "#cca856",
     },
+    extend: {},
   },
-  plugins: [],
-} satisfies Config;
+  plugins: [
+    require("flowbite/plugin"), // Tambahkan plugin Flowbite
+  ],
+};
