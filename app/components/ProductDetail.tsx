@@ -27,7 +27,7 @@ function ProductDetail() {
                 60.000/kg
               </p>
               <p className="text-gray-700 md:text-sm sm:text-sm text-xs font-normal">
-                Soft, durable, and available in a variety of colors.
+                Bahan ringan dan bahan tekstur emboss.
               </p>
             </div>
           </div>
@@ -42,7 +42,7 @@ function ProductDetail() {
           <div className="md:w-72 sm:w-96 w-64 h-full rounded-md bg-white shadow-md relative group overflow-hidden">
             <img
               src="/imgs/alvaro_knit_1.jpg"
-              alt="Spandex Linen"
+              alt="Alvaro Knit"
               className="rounded-t-md w-full md:h-64 sm:h-64 h-56 mb-4 shadow-md transition-transform duration-700 group-hover:scale-110 group-hover:opacity-0"
             />
             <img
@@ -58,7 +58,7 @@ function ProductDetail() {
                 60.000/kg
               </p>
               <p className="text-gray-700 md:text-sm sm:text-sm text-xs font-normal">
-                Soft, durable, and available in a variety of colors.
+                Lembut, elastis, dan bahan <br /> nyaman.
               </p>
             </div>
           </div>
@@ -81,7 +81,7 @@ function ProductDetail() {
                 60.000/kg
               </p>
               <p className="text-gray-700 md:text-sm sm:text-sm text-xs font-normal">
-                Soft, durable, and available in a variety of colors.
+                Bahan awet tahan lama dan bahan premium.
               </p>
             </div>
           </div>
@@ -104,7 +104,7 @@ function ProductDetail() {
                 60.000/kg
               </p>
               <p className="text-gray-700 md:text-sm sm:text-sm text-xs font-normal">
-                Soft, durable, and available in a variety of colors.
+                Tidak mudah kusut, tekstur halus, dan menyerap keringat.
               </p>
             </div>
           </div>
@@ -127,7 +127,8 @@ function ProductDetail() {
                 60.000/kg
               </p>
               <p className="text-gray-700 md:text-sm sm:text-sm text-xs font-normal">
-                Soft, durable, and available in a variety of colors.
+                Tekstur halus dan tidak mudah <br />
+                kusut.
               </p>
             </div>
           </div>
@@ -150,7 +151,7 @@ function ProductDetail() {
                 60.000/kg
               </p>
               <p className="text-gray-700 md:text-sm sm:text-sm text-xs font-normal">
-                Soft, durable, and available in a variety of colors.
+                Bahan tidak kaku, lembut, dan bahan ringan.
               </p>
             </div>
           </div>
@@ -173,7 +174,7 @@ function ProductDetail() {
                 60.000/kg
               </p>
               <p className="text-gray-700 md:text-sm sm:text-sm text-xs font-normal">
-                Soft, durable, and available in a variety of colors.
+                Bahan tidak kaku, lembut, dan bahan ringan.
               </p>
             </div>
           </div>
@@ -196,7 +197,7 @@ function ProductDetail() {
                 60.000/kg
               </p>
               <p className="text-gray-700 md:text-sm sm:text-sm text-xs font-normal">
-                Soft, durable, and available in a variety of colors.
+                Bahan ringan dan bahan tidak mudah kusut.
               </p>
             </div>
           </div>
@@ -219,7 +220,8 @@ function ProductDetail() {
                 60.000/kg
               </p>
               <p className="text-gray-700 md:text-sm sm:text-sm text-xs font-normal">
-                Soft, durable, and available in a variety of colors.
+                Bahan cocok iklim tropis/cuaca panas dan bahan tidak mudah
+                kusut.
               </p>
             </div>
           </div>
@@ -242,7 +244,7 @@ function ProductDetail() {
                 50.000/kg
               </p>
               <p className="text-gray-700 md:text-sm sm:text-sm text-xs font-normal">
-                Soft, durable, and available in a variety of colors.
+                Bahan tidak tebal ataupun terlalu tipis dan bahan ringan.
               </p>
             </div>
           </div>
@@ -265,7 +267,7 @@ function ProductDetail() {
                 60.000/kg
               </p>
               <p className="text-gray-700 md:text-sm sm:text-sm text-xs font-normal">
-                Soft, durable, and available in a variety of colors.
+                Bahan quality Import, ringan, dan elastis.
               </p>
             </div>
           </div>
@@ -288,7 +290,7 @@ function ProductDetail() {
                 60.000/kg
               </p>
               <p className="text-gray-700 md:text-sm sm:text-sm text-xs font-normal">
-                Soft, durable, and available in a variety of colors.
+                Bahan quality Import, ringan, dan elastis.
               </p>
             </div>
           </div>
@@ -319,7 +321,8 @@ function ProductDetail() {
                 65.000/kg
               </p>
               <p className="text-gray-700 md:text-sm sm:text-sm text-xs font-normal">
-                Soft, durable, and available in a variety of colors.
+                Bahan elastis dan bahan tahan <br />
+                lama.
               </p>
             </div>
           </div>
@@ -350,7 +353,7 @@ function ProductDetail() {
                 60.000/kg
               </p>
               <p className="text-gray-700 md:text-sm sm:text-sm text-xs font-normal">
-                Soft, durable, and available in a variety of colors.
+                Bahan ringan, nyaman, dan tampilan casual.
               </p>
             </div>
           </div>

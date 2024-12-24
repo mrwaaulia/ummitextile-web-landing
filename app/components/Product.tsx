@@ -17,7 +17,7 @@ function Product() {
               yang disesuaikan dengan kebutuhan Anda.
             </p>
           </div>
-          <div className="w-full grid md:grid-cols-3 grid-cols-1 place-items-center md:gap-8 gap-12 mb-14">
+          <div className="w-full grid md:grid-cols-4 grid-cols-1 place-items-center md:gap-16 gap-12 mb-14">
             <div className="md:w-72 sm:w-96 w-64 h-full rounded-md bg-white shadow-md relative group overflow-hidden">
               <img
                 src="/imgs/waffle_knit_black_1.jpg"
@@ -37,7 +37,7 @@ function Product() {
                   60.000/kg
                 </p>
                 <p className="text-gray-700 md:text-sm sm:text-sm text-xs font-normal">
-                  Soft, durable, and available in a variety of colors.
+                  Bahan quality Import, ringan, dan elastis.
                 </p>
               </div>
             </div>
@@ -60,7 +60,31 @@ function Product() {
                   60.000/kg
                 </p>
                 <p className="text-gray-700 md:text-sm sm:text-sm text-xs font-normal">
-                  Soft, durable, and available in a variety of colors.
+                  Bahan ringan dan bahan tekstur emboss.
+                </p>
+              </div>
+            </div>
+            <div className="md:w-72 sm:w-96 w-64 h-full rounded-md bg-white shadow-md relative group overflow-hidden">
+              <img
+                src="/imgs/scuba_maximus_1.jpg"
+                alt="Scuba Maximus"
+                className="rounded-t-md w-full md:h-64 sm:h-64 h-56 mb-4 shadow-md transition-transform duration-700 group-hover:scale-110 group-hover:opacity-0"
+              />
+              <img
+                src="/imgs/scuba_maximus_2.jpg"
+                alt="Scuba Maximus"
+                className="rounded-t-md w-full md:h-64 sm:h-64 h-56 mb-4 shadow-md absolute top-0 left-0 transition-transform duration-700 opacity-0 group-hover:opacity-100 group-hover:scale-110"
+              />
+              <div className="text-center p-4">
+                <h3 className="text-primary font-medium md:text-lg sm:text-lg text-base mb-2">
+                  Scuba Maximus
+                </h3>
+                <p className="text-gray-700 font-semibold md:text-lg sm:text-lg text-base mb-2">
+                  65.000/kg
+                </p>
+                <p className="text-gray-700 md:text-sm sm:text-sm text-xs font-normal">
+                  Bahan elastis dan bahan tahan <br />
+                  lama.
                 </p>
               </div>
             </div>
@@ -83,13 +107,13 @@ function Product() {
                   60.000/kg
                 </p>
                 <p className="text-gray-700 md:text-sm sm:text-sm text-xs font-normal">
-                  Soft, durable, and available in a variety of colors.
+                  Bahan ringan, nyaman, dan tampilan casual.
                 </p>
               </div>
             </div>
           </div>
           <a
-            href="#"
+            href="/product"
             className="flex justify-center md:ml-0 ml-0 text-primary text-md font-medium hover:text-primary/80 hover:underline ease-linear duration-300"
           >
             Lihat semua produk

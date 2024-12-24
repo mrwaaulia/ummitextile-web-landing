@@ -1,5 +1,6 @@
 "use client";
 import React, { useState, useEffect } from "react";
+import Link from "next/link";
 
 const Hero = () => {
   const [currentSlide, setCurrentSlide] = useState(0);
@@ -75,9 +76,11 @@ const Hero = () => {
                 <h2 className="md:text-4xl sm:text-2xl text-lg md:mb-14 sm:mb-14 mb-12 font-bold">
                   Rumah Kain Berkualitas Tinggi
                 </h2>
-                <button className="bg-secondary md:text-lg sm:text-sm text-xs py-2 px-4 rounded-md hover:bg-yellow-500">
-                  Lihat semua koleksi
-                </button>
+                <Link href="/product">
+                  <button className="bg-secondary md:text-base sm:text-sm text-xs py-2 px-4 rounded-md hover:bg-yellow-500">
+                    Lihat semua koleksi
+                  </button>
+                </Link>
               </div>
             </div>
           ))}
