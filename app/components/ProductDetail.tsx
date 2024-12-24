@@ -347,7 +347,7 @@ function ProductDetail() {
                 Spandex Linen
               </h3>
               <p className="text-gray-700 font-semibold md:text-lg sm:text-lg text-base mb-2">
-                10000
+                60.000/kg
               </p>
               <p className="text-gray-700 md:text-sm sm:text-sm text-xs font-normal">
                 Soft, durable, and available in a variety of colors.
@@ -364,12 +364,13 @@ function ProductDetail() {
   return (
     <div className="bg-gray-100 w-full h-full md:px-28 px-8 py-20 md:mt-28 mt-24">
       <div className="text-center mb-14">
-        <h1 className="text-primary font-bold md:text-6xl sm:text-2xl text-xl mb-4">
+        <h1 className="text-primary font-bold md:text-6xl sm:text-2xl text-xl mb-6">
           Produk Kami
         </h1>
         <p className="text-gray-700 font-normal md:text-lg sm:text-base text-sm">
           Kami menyediakan berbagai macam produk tekstil berkualitas tinggi yang
-          disesuaikan dengan kebutuhan Anda.
+          disesuaikan dengan kebutuhan Anda. Semakin banyak kuantitas orderan
+          harga bisa disesuaikan.
         </p>
       </div>
 

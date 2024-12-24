@@ -57,7 +57,7 @@ function Product() {
                   Dryfit Brazil Embos
                 </h3>
                 <p className="text-gray-700 font-semibold md:text-lg sm:text-lg text-base mb-2">
-                  100.000/kg
+                  60.000/kg
                 </p>
                 <p className="text-gray-700 md:text-sm sm:text-sm text-xs font-normal">
                   Soft, durable, and available in a variety of colors.
@@ -80,7 +80,7 @@ function Product() {
                   Spandex Linen
                 </h3>
                 <p className="text-gray-700 font-semibold md:text-lg sm:text-lg text-base mb-2">
-                  100.000/kg
+                  60.000/kg
                 </p>
                 <p className="text-gray-700 md:text-sm sm:text-sm text-xs font-normal">
                   Soft, durable, and available in a variety of colors.
