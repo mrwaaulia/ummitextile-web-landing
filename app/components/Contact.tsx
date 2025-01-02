@@ -1,5 +1,10 @@
 import React from "react";
-import { MapPinLine, Phone, Clock } from "@phosphor-icons/react/dist/ssr";
+import {
+  MapPinLine,
+  Phone,
+  Clock,
+  EnvelopeSimple,
+} from "@phosphor-icons/react/dist/ssr";
 
 function Contact() {
   return (
@@ -29,6 +34,15 @@ function Contact() {
                 />
                 <p className="md:pt-2 pt-3 md:text-base sm:text-sm text-xs">
                   Jl. Batu Rengat No. 37, Bandung
+                </p>
+              </div>
+              <div className="flex md:gap-8 sm:gap-6 gap-4 mb-6">
+                <EnvelopeSimple
+                  size={40}
+                  className="text-primary bg-white rounded-full p-2"
+                />
+                <p className="md:pt-2 pt-3 md:text-base sm:text-sm text-xs">
+                  pt.ummitextile@gmail.com
                 </p>
               </div>
               <div className="flex md:gap-8 sm:gap-6 gap-4 mb-6">
